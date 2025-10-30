@@ -4,7 +4,7 @@
   "description": "",
   "main": "hello_world.js",
   "scripts": {
-    "start" : "node hello_world.js"
+    "start": "node hello_world.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ebarron03/Test_render/issues"
   },
-  "homepage": "https://github.com/ebarron03/Test_render#readme"
+  "homepage": "https://github.com/ebarron03/Test_render#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
